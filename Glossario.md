@@ -1,3 +1,3 @@
-# Glossário de termos para Direito Digital
+<center># Glossário de termos para Direito Digital</center>
 
 
