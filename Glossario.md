@@ -1,8 +1,8 @@
 # Glossário de termos para Direito Digital
 
-* Direito Digital: Ramo do direito que normatiza o uso de ambientes digitais e protege informações nesses espaços.
+* Direito Digital: Ramo do direito que regula as relações jurídicas no ambiente digital, focando na proteção de dados e na normatização do uso de tecnologias e da internet.
 
-* Lei Carolina Dieckmann (Lei nº 12.737/2012): Tipifica crimes informáticos, como invasão de dispositivos e falsificação de documentos digitais.
+* Lei Carolina Dieckmann (Lei nº 12.737/2012): Caracteriza crimes cibernéticos, como invasão de dispositivos e falsificação de documentos digitais.
 
 * Marco Civil da Internet (Lei nº 12.965/2014): Estabelece princípios, garantias e direitos para o uso da internet no Brasil.
 
