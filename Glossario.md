@@ -15,3 +15,7 @@
 * Privacidade: Direito dos usuários à proteção de seus dados pessoais e informações na internet.
 
 * Transparência: Prática de informar claramente como os dados pessoais são utilizados pelas empresas.
+
+* Calúnia: Previsto no artigo 138 do Código Penal, e consiste em culpabilizar falsamente a autoria de um crime para outrem. Para que se configure o crime de calúnia, é necessário que seja exposto publicamente um fato criminoso.
+
+* Difamação: Constitui-se na prática de propagar informações falsas ou imprecisas sobre alguém, com o intuito de prejudicar sua reputação e imagem perante terceiros. Contudo, é necessário que a acusação do fato seja desonrosa – e não criminoso.
