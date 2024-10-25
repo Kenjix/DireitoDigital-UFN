@@ -20,6 +20,6 @@
 
 * Difamação: Constitui-se na prática de propagar informações falsas ou imprecisas sobre alguém, com o intuito de prejudicar sua reputação e imagem perante terceiros. Contudo, é necessário que a acusação do fato seja desonrosa – e não criminoso.
 
-* Crimes eletrônicos são atividades ilegais realizadas por meio de computadores e redes, incluindo fraudes online, hacking, distribuição de malware, roubo de identidade, cyberbullying e pornografia infantil.
+* Crimes eletrônicos: São atividades ilegais realizadas por meio de computadores e redes, incluindo fraudes online, hacking, distribuição de malware, roubo de identidade, cyberbullying e pornografia infantil.
 
-* Legítima defesa na internet refere-se às ações que uma pessoa pode tomar para proteger-se contra ameaças cibernéticas. Isso pode incluir a implementação de medidas de segurança, repelir ataques ou denunciar crimes às autoridades. No entanto, essas ações devem ser proporcionais e legais, evitando consequências jurídicas negativas.
+* Legítima defesa na internet: Refere-se às ações que uma pessoa pode tomar para proteger-se contra ameaças cibernéticas. Isso pode incluir a implementação de medidas de segurança, repelir ataques ou denunciar crimes às autoridades. No entanto, essas ações devem ser proporcionais e legais, evitando consequências jurídicas negativas.
