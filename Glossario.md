@@ -26,7 +26,7 @@
 
 * Direito do Consumidor na internet: O direito do consumidor na internet abrange normas e legislações que protegem os consumidores em transações online. No Brasil, o Código de Defesa do Consumidor (CDC) se aplica a compras feitas pela internet, garantindo direitos como:
 
-** Informação clara: O consumidor deve ter acesso a informações precisas sobre produtos e serviços.
+  * Informação clara: O consumidor deve ter acesso a informações precisas sobre produtos e serviços.
 Direito de arrependimento: O consumidor pode cancelar a compra em até 7 dias após a entrega, sem justificativa.
 Segurança: As informações pessoais e financeiras do consumidor devem ser protegidas.
 Publicidade enganosa: Propagandas devem ser verdadeiras e não induzir o consumidor ao erro.
