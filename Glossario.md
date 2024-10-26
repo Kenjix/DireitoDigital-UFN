@@ -32,7 +32,7 @@
   * Publicidade enganosa: Propagandas devem ser verdadeiras e não induzir o consumidor ao erro.
   * Essas diretrizes buscam equilibrar a relação entre consumidores e fornecedores, promovendo uma experiência de compra mais segura e justa.
 
-* Outsourcing: É um tipo de terceirização onde uma empresa contrata outra para realizar serviços específicos, geralmente para reduzir custos e aumentar a eficiência. Isso pode incluir áreas como contabilidade, TI, recursos humanos, entre outras.
+* Outsourcing: É um tipo de terceirização onde uma empresa contrata outra para realizar serviços específicos por um tempo determinado, geralmente para reduzir custos e aumentar a eficiência. Isso pode incluir áreas como contabilidade, TI, recursos humanos, entre outras.
   * Contrato CLT:
     * Vantagens: Direitos trabalhistas garantidos (férias, 13º, FGTS), maior estabilidade, acesso a benefícios.
     * Desvantagens: Custos mais altos para a empresa, menor flexibilidade.
