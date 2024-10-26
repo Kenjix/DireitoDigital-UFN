@@ -39,4 +39,4 @@
 
   * Terceirização (Outsourcing):
     * Vantagens: Maior flexibilidade, custos reduzidos para empresas.
-    * Desvantagens: Menos direitos para trabalhadores, maior instabilidade no emprego, empres responde legalmente pelo terceiro.
+    * Desvantagens: Menos direitos para trabalhadores, maior instabilidade no emprego, empresa responde legalmente pelo terceiro.
