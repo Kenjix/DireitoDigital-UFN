@@ -23,3 +23,13 @@
 * Crimes eletrônicos: São atividades ilegais realizadas por meio de computadores e redes, incluindo fraudes online, hacking, distribuição de malware, roubo de identidade, cyberbullying e pornografia infantil.
 
 * Legítima defesa na internet: Refere-se às ações que uma pessoa pode tomar para proteger-se contra ameaças cibernéticas. Isso pode incluir a implementação de medidas de segurança, repelir ataques ou denunciar crimes às autoridades. No entanto, essas ações devem ser proporcionais e legais, evitando consequências jurídicas negativas.
+
+* Direito do Consumidor na internet: O direito do consumidor na internet abrange normas e legislações que protegem os consumidores em transações online. No Brasil, o Código de Defesa do Consumidor (CDC) se aplica a compras feitas pela internet, garantindo direitos como:
+
+** Informação clara: O consumidor deve ter acesso a informações precisas sobre produtos e serviços.
+Direito de arrependimento: O consumidor pode cancelar a compra em até 7 dias após a entrega, sem justificativa.
+Segurança: As informações pessoais e financeiras do consumidor devem ser protegidas.
+Publicidade enganosa: Propagandas devem ser verdadeiras e não induzir o consumidor ao erro.
+Essas diretrizes buscam equilibrar a relação entre consumidores e fornecedores, promovendo uma experiência de compra mais segura e justa.
+
+* Outsourcing:
