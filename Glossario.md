@@ -40,7 +40,9 @@
   * Terceirização (Outsourcing):
     * Vantagens: Maior flexibilidade, custos reduzidos para empresas.
     * Desvantagens: Menos direitos para trabalhadores, maior instabilidade no emprego, empresa responde legalmente pelo terceiro.
-   
+
+
+# Licenciamento:
 * Licença de Software: É um acordo legal entre desenvolvedor ou a empresa responsável pelo software e o usuário. A licença protege os direitos do titular do software, definindo como o software pode ser usado, copiado, modificado e distribuído, e os interesses do usuário, como, por exemplo, o direito a suporte ou reparo caso o software apresente algum problema.
 
 * Software Proprietário: Pode ser usado, mas não pode ser modificado ou distribuído livremente. Seu código-fonte não pode ser acessado.
