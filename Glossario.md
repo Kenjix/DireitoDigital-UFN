@@ -79,7 +79,8 @@
 
 A ISO/IEC 27000 consiste em um conjunto de normas internacionais que abordam diversos aspectos da segurança da informação e gestão de sistemas de segurança. Essas normas ajudam organizações a proteger informações sensíveis de maneira sistemática e padronizada.
 
-  * ISO/IEC 27000: Conceitos e vocabulário sobre SGSI.
+* Normas Fundamentais:
+  * ISO/IEC 27000: Conceitos e vocabulário sobre Sistema de Gestão da Segurança da Informação (SGSI).
   * ISO/IEC 27001: Requisitos para implementação e manutenção de um Sistema de Gestão da Segurança da Informação (SGSI).
   * ISO/IEC 27002: Diretrizes para implementação de controles de segurança da informação.
 
