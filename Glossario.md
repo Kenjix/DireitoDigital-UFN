@@ -121,10 +121,10 @@ A ISO/IEC 27000 consiste em um conjunto de normas internacionais que abordam div
 * **ISO/IEC 27400**: Segurança em ambientes baseados na Internet das Coisas (IoT).
 
 * Normas Complementares e em Desenvolvimento:
-* **ISO/IEC 27032**: Segurança no ciberespaço.
-* **ISO/IEC 27033**: Segurança de redes.
-* **ISO/IEC 27034**: Segurança de aplicações.
-* **ISO/IEC 27040**: Segurança para armazenamento de informações.
+  **ISO/IEC 27032**: Segurança no ciberespaço.
+  **ISO/IEC 27033**: Segurança de redes.
+  **ISO/IEC 27034**: Segurança de aplicações.  
+  **ISO/IEC 27040**: Segurança para armazenamento de informações.
 
 
 
