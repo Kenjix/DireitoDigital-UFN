@@ -78,52 +78,52 @@
 # ISO 27000
 A ISO/IEC 27000 consiste em um conjunto de normas internacionais que abordam diversos aspectos da segurança da informação e gestão de sistemas de segurança. Essas normas ajudam organizações a proteger informações sensíveis de maneira sistemática e padronizada.
 
-## Normas Fundamentais:
-- **ISO/IEC 27000**: Conceitos e vocabulário sobre SGSI.
-- **ISO/IEC 27001**: Requisitos para implementação e manutenção de um Sistema de Gestão da Segurança da Informação (SGSI).
-- **ISO/IEC 27002**: Diretrizes para implementação de controles de segurança da informação.
+* Normas Fundamentais:
+  **ISO/IEC 27000**: Conceitos e vocabulário sobre SGSI.
+  **ISO/IEC 27001**: Requisitos para implementação e manutenção de um Sistema de Gestão da Segurança da Informação (SGSI).
+  **ISO/IEC 27002**: Diretrizes para implementação de controles de segurança da informação.
 
-## Normas de Avaliação de Riscos:
-- **ISO/IEC 27005**: Diretrizes para a gestão de riscos de segurança da informação.
-- **ISO/IEC 27008**: Diretrizes para avaliação de controles de segurança da informação.
+* Normas de Avaliação de Riscos:
+  **ISO/IEC 27005**: Diretrizes para a gestão de riscos de segurança da informação.
+  **ISO/IEC 27008**: Diretrizes para avaliação de controles de segurança da informação.
 
-## Normas para Implementação de Controles:
-- **ISO/IEC 27017**: Diretrizes para segurança da informação em serviços na nuvem.
-- **ISO/IEC 27018**: Proteção de dados pessoais em serviços de nuvem pública.
-- **ISO/IEC 27019**: Controles específicos para segurança em sistemas de energia.
+* Normas para Implementação de Controles:
+  **ISO/IEC 27017**: Diretrizes para segurança da informação em serviços na nuvem.
+  **ISO/IEC 27018**: Proteção de dados pessoais em serviços de nuvem pública.
+  **ISO/IEC 27019**: Controles específicos para segurança em sistemas de energia.
 
-## Normas para Privacidade e Proteção de Dados:
-- **ISO/IEC 27701**: Extensão da ISO/IEC 27001 para gestão de informações de privacidade.
-- **ISO/IEC 27552**: Diretrizes para proteção de dados pessoais (sucessora da 27701).
+* Normas para Privacidade e Proteção de Dados:
+  **ISO/IEC 27701**: Extensão da ISO/IEC 27001 para gestão de informações de privacidade.
+  **ISO/IEC 27552**: Diretrizes para proteção de dados pessoais (sucessora da 27701).
 
-## Normas para Segurança em Sistemas Específicos:
-- **ISO/IEC 27010**: Gestão de segurança da informação em comunicações intersetoriais.
-- **ISO/IEC 27011**: Diretrizes para telecomunicações.
-- **ISO/IEC 27013**: Integração entre SGSI e sistemas de gestão de serviços de TI (ISO/IEC 20000).
-- **ISO/IEC 27035**: Gestão de incidentes de segurança da informação.
+* Normas para Segurança em Sistemas Específicos:
+  **ISO/IEC 27010**: Gestão de segurança da informação em comunicações intersetoriais.
+  **ISO/IEC 27011**: Diretrizes para telecomunicações.
+  **ISO/IEC 27013**: Integração entre SGSI e sistemas de gestão de serviços de TI (ISO/IEC 20000).
+  **ISO/IEC 27035**: Gestão de incidentes de segurança da informação.
 
-## Normas de Auditoria e Certificação:
-- **ISO/IEC 27006**: Requisitos para organismos que fornecem certificação de SGSI.
-- **ISO/IEC 27007**: Diretrizes para auditoria de SGSI.
-- **ISO/IEC TS 27008**: Diretrizes para auditores avaliarem controles de segurança.
+* Normas de Auditoria e Certificação:
+  **ISO/IEC 27006**: Requisitos para organismos que fornecem certificação de SGSI.
+  **ISO/IEC 27007**: Diretrizes para auditoria de SGSI.
+  **ISO/IEC TS 27008**: Diretrizes para auditores avaliarem controles de segurança.
 
-## Normas de Continuidade e Resiliência:
-- **ISO/IEC 27031**: Diretrizes para continuidade de negócios relacionada à tecnologia da informação.
-- **ISO/IEC 22301**: Gestão de continuidade de negócios (relacionada à 27031).
+* Normas de Continuidade e Resiliência:
+  **ISO/IEC 27031**: Diretrizes para continuidade de negócios relacionada à tecnologia da informação.
+  **ISO/IEC 22301**: Gestão de continuidade de negócios (relacionada à 27031).
 
-## Normas para Governança e Gerenciamento:
-- **ISO/IEC 27003**: Diretrizes para implementação de SGSI.
-- **ISO/IEC 27004**: Medições de desempenho de segurança da informação.
-- **ISO/IEC 27014**: Governança da segurança da informação.
+* Normas para Governança e Gerenciamento:
+  **ISO/IEC 27003**: Diretrizes para implementação de SGSI.
+  **ISO/IEC 27004**: Medições de desempenho de segurança da informação.
+  **ISO/IEC 27014**: Governança da segurança da informação.
 
-## Normas para Segurança em IoT e Dispositivos:
-- **ISO/IEC 27030**: Diretrizes para segurança em IoT.
-- **ISO/IEC 27400**: Segurança em ambientes baseados na Internet das Coisas (IoT).
+* Normas para Segurança em IoT e Dispositivos:
+  **ISO/IEC 27030**: Diretrizes para segurança em IoT.
+  **ISO/IEC 27400**: Segurança em ambientes baseados na Internet das Coisas (IoT).
 
-## Normas Complementares e em Desenvolvimento:
-- **ISO/IEC 27032**: Segurança no ciberespaço.
-- **ISO/IEC 27033**: Segurança de redes.
-- **ISO/IEC 27034**: Segurança de aplicações.
-- **ISO/IEC 27040**: Segurança para armazenamento de informações.
+* Normas Complementares e em Desenvolvimento:
+  **ISO/IEC 27032**: Segurança no ciberespaço.
+  **ISO/IEC 27033**: Segurança de redes.
+  **ISO/IEC 27034**: Segurança de aplicações.
+  **ISO/IEC 27040**: Segurança para armazenamento de informações.
 
 
