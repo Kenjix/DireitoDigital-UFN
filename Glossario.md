@@ -112,9 +112,9 @@ A ISO/IEC 27000 consiste em um conjunto de normas internacionais que abordam div
 * **ISO/IEC 22301**: Gestão de continuidade de negócios (relacionada à 27031).
 
 * Normas para Governança e Gerenciamento:
-* **ISO/IEC 27003**: Diretrizes para implementação de SGSI.
-* **ISO/IEC 27004**: Medições de desempenho de segurança da informação.
-* **ISO/IEC 27014**: Governança da segurança da informação.
+  **ISO/IEC 27003**: Diretrizes para implementação de SGSI.
+  **ISO/IEC 27004**: Medições de desempenho de segurança da informação.
+  **ISO/IEC 27014**: Governança da segurança da informação.
 
 * Normas para Segurança em IoT e Dispositivos:
 * **ISO/IEC 27030**: Diretrizes para segurança em IoT.
